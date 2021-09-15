@@ -1,11 +1,14 @@
 {
-  "name": "react-native-torch",
+  "name": "@mikedepo/react-native-torch",
   "version": "1.2.0",
   "description": "Torch/flashlight for react-native",
   "main": "index",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ludo/react-native-torch"
+    "url": "https://github.com/mikedepo/react-native-torch"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   },
   "keywords": [
     "react",
